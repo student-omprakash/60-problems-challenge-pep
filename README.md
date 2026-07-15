@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
