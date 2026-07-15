@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0210-course-schedule-ii) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
