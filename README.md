@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1518-water-bottles) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Simulation
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1518-water-bottles) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
