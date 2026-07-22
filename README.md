@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0322-coin-change) |
 ## Graph Theory
 |  |
 | ------- |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [0416-partition-equal-subset-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0416-partition-equal-subset-sum) |
+| [0322-coin-change](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0416-partition-equal-subset-sum) |
+| [0322-coin-change](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0322-coin-change) |
 ## Math
 |  |
 | ------- |
