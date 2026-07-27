@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0583-delete-operation-for-two-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0516-longest-palindromic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1049-last-stone-weight-ii) |
+| [0062-unique-paths](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0062-unique-paths) |
 ## Math
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1518-water-bottles) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [0564-find-the-closest-palindrome](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0564-find-the-closest-palindrome) |
+| [0062-unique-paths](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0062-unique-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0583-delete-operation-for-two-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0564-find-the-closest-palindrome) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
