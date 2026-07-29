@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0322-coin-change) |
 | [1049-last-stone-weight-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1049-last-stone-weight-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0931-minimum-falling-path-sum) |
+| [0064-minimum-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0064-minimum-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1049-last-stone-weight-ii) |
 | [0062-unique-paths](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0062-unique-paths) |
 | [0931-minimum-falling-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0931-minimum-falling-path-sum) |
+| [0064-minimum-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0064-minimum-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0931-minimum-falling-path-sum) |
+| [0064-minimum-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
