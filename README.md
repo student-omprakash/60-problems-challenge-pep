@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0416-partition-equal-subset-sum) |
 | [0322-coin-change](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0322-coin-change) |
 | [1049-last-stone-weight-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1049-last-stone-weight-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0931-minimum-falling-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0516-longest-palindromic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1049-last-stone-weight-ii) |
 | [0062-unique-paths](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0062-unique-paths) |
+| [0931-minimum-falling-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0931-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0931-minimum-falling-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
