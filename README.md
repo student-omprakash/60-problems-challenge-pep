@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0931-minimum-falling-path-sum) |
 | [0064-minimum-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0064-minimum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
