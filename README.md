@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0583-delete-operation-for-two-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0564-find-the-closest-palindrome) |
+| [0242-valid-anagram](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0242-valid-anagram) |
 ## Combinatorics
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0237-delete-node-in-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
