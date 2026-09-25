@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0564-find-the-closest-palindrome) |
 | [0242-valid-anagram](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1096-brace-expansion-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -82,12 +84,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1096-brace-expansion-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0875-koko-eating-bananas) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
