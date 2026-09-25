@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/1049-last-stone-weight-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0931-minimum-falling-path-sum) |
 | [0064-minimum-path-sum](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0064-minimum-path-sum) |
+| [0875-koko-eating-bananas](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/student-omprakash/60-problems-challenge-pep/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
